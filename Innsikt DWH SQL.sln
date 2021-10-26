@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Innsikt DWH SQL", "Innsikt DWH SQL.sqlproj", "{9FE4608E-2FC7-4DA8-BE77-3C8C19D61D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE4608E-2FC7-4DA8-BE77-3C8C19D61D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE4608E-2FC7-4DA8-BE77-3C8C19D61D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE4608E-2FC7-4DA8-BE77-3C8C19D61D5E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9FE4608E-2FC7-4DA8-BE77-3C8C19D61D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE4608E-2FC7-4DA8-BE77-3C8C19D61D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE4608E-2FC7-4DA8-BE77-3C8C19D61D5E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EFC59D7-46B4-41F7-A6A0-461AA7500A8C}
+	EndGlobalSection
+EndGlobal
